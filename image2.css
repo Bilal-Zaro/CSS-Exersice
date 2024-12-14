@@ -1,0 +1,26 @@
+body{
+background-color:lightyellow;
+padding: 10px;
+height: 100vh;
+border-right: black solid 3px ;
+}
+
+
+span.a{
+display: inline-block ;
+background-color: lightgray;
+width: 200px;
+height: 100px;
+overflow: hidden;
+}
+div.cen{
+border-top: 2px solid;
+border-bottom: 2px solid;
+margin-top: 1rem;
+margin-bottom: 1rem;
+    font-weight: bold;
+overflow-y: scroll;
+height: 70px;
+
+
+}

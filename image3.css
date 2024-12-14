@@ -1,0 +1,18 @@
+div{
+    color: blue;
+}
+a {
+    color: orange;
+}
+ul a {
+    color: red;
+}
+ul ul{
+    color: blue;
+}
+ul ul li:first-of-type{
+    font-weight: bold;
+}
+dt:first-of-type{
+    font-weight: bold;
+}
