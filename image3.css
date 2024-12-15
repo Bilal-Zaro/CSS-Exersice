@@ -10,9 +10,9 @@ ul a {
 ul ul{
     color: blue;
 }
-ul ul li:first-of-type{
+/* ul ul li:first-of-type{
     font-weight: bold;
 }
 dt:first-of-type{
     font-weight: bold;
-}
+} */
